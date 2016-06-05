@@ -1,0 +1,4 @@
+/home/otserv/vanaheim1090/build/CMakeFiles/all_pch.dir
+/home/otserv/vanaheim1090/build/CMakeFiles/clean_cotire.dir
+/home/otserv/vanaheim1090/build/CMakeFiles/tfs.dir
+/home/otserv/vanaheim1090/build/CMakeFiles/tfs_pch.dir
